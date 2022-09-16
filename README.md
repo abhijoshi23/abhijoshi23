@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working as Application developer at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a>
 
-- 🌱 I’m currently working on **Microsoft low-code platform: PowerApps, PowerAutomate**
+- 🌱 I’m currently working on **Microsoft low-code platform: PowerApps, PowerAutomate, MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
 
-- 💬 Ask me about MEVN, MERN Stack applications: React, Vue3, TypeScript, MongoDB etc.
+- 💬 Improving myself on MEAN, MERN Stack applications: React, Vue3, TypeScript, MongoDB etc.
 
 - 📫 How to reach me **jabhi381@gmail.com**
 
