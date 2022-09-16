@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abhi Joshi</h1>
 <h3 align="center">A passionate Software developer.</h3>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijoshi23&label=Profile%20views&color=0e75b6&style=flat" alt="abhijoshi23" /> </p>
 
-- 🔭 I’m currently working as **Application developer at Ministry of Public and Business Service Delivery (MPBSD)**
+- 🔭 I’m currently working as Application developer at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD)</a>
 
 - 🌱 I’m currently working on **Microsoft low-code platform: PowerApps, PowerAutomate**
 
-- 👨‍💻 All of my projects are availablee at [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
 
-- 💬 Ask me about **MEVN, MERN Stack applications: React, Vue3, TypeScript, MongoDB, Nuxt3 etc**
+- 💬 Ask me about MEVN, MERN Stack applications: React, Vue3, TypeScript, MongoDB etc.
 
 - 📫 How to reach me **jabhi381@gmail.com**
 
