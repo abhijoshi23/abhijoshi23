@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhi Joshi</h1>
 <h3 align="center">A passionate Software developer.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/coding-gif-24625099](https://tenor.com/view/coding-gif-24625099)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijoshi23&label=Profile%20views&color=0e75b6&style=flat" alt="abhijoshi23" /> </p>
 
