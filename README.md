@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at - [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
 
-- 💬 Improving myself on MEAN, MERN Stack applications: React, Next.js, TypeScript, MongoDB etc.
+- 💬 Improving myself on MEAN, MERN Stack applications: React, Angular.js, Next.js, TypeScript, MongoDB etc.
 
 - 📫 How to reach me **jabhi381@gmail.com**.
 
