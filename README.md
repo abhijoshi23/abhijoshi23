@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on **Microsoft low-code platform: PowerApps, PowerAutomate, MERN stack.**
 
-- 👨‍💻 All of my projects are available at - [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/).
+- 👨‍💻 All of my projects are available at - [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
 
 - 💬 Improving myself on MEAN, MERN Stack applications: React, Angular.js, Next.js, TypeScript, MongoDB etc.
 
