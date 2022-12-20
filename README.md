@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as Application developer at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD).</a>
 
-- 🌱 I’m currently working on **Microsoft low-code platform: PowerApps, PowerAutomate, MERN stack.**
+- 🌱 I’m currently working on **Microsoft low-code platform: PowerApps, PowerAutomate, and MERN stack.**
 
 - 👨‍💻 All of my projects are available at - [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
 
