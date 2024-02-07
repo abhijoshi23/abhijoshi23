@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as Software Developer / Systems Operational Analyst at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD).</a>
 
-- 🌱 I’m currently working on **MERN and MEAN stack as well as Microsoft low-code platform: PowerApps and PowerAutomate.**
+- 🌱 I’m currently working on **MERN and MEAN stack as well as low-code platforms like: Microsoft PowerApps and PowerAutomate.**
 
 - 👨‍💻 I like working on exciting projects, They are available at my portfolio as well - [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
 
