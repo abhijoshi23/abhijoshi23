@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijoshi23&label=Profile%20views&color=0e75b6&style=flat" alt="abhijoshi23" /> </p>
 
-- 🔭 I’m currently working as Software Developer / Systems Operational Analyst at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD).</a>
+- 🔭 I’m currently working as Systems Operational Analyst / Software Developer  at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD).</a>
 
 - 🌱 I’m currently working on **MERN and MEAN stack as well as low-code platforms like: Microsoft PowerApps, PowerAutomate and Co-pilot Studio.**
 
