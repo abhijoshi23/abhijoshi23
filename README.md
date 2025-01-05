@@ -10,7 +10,7 @@
 
 - 👨‍💻 I like working on exciting projects, They are available at my portfolio as well - [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
 
-- 💬 Improving myself on MEAN, MERN Stack applications: React,Gatsby, Angular.js, Next.js, TypeScript, MongoDB etc.
+- 💬 Improving myself on MEAN, MERN Stack applications: React,Gatsby, Angular.js, Next.js, TypeScript, MongoDB and more dev tools.
 
 - 📫 How to reach me **jabhi381@gmail.com**.
 
