@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jabhi381@gmail.com**.
 
-- ⚡ Fun fact **I love to interact with people.**
+- ⚡ Fun fact **I love to interact with people.** Feel free to connect with me.
 
 <h3 align="left">Connect with me:-</h3>
 <p align="left">
