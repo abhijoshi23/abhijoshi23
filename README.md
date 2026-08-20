@@ -6,13 +6,13 @@
 
 <div align="center">
 
-<a href="https://abhijoshi.vercel.app">
+<a href="https://abhijoshi23.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF5C35&center=true&vCenter=true&width=620&height=45&lines=Full-stack+developer+%E2%80%94+MERN+%2F+MEAN;Systems+Operational+Analyst+%40+Ontario+Gov;I+ship+things+that+stay+shipped." alt="Full-stack developer — MERN / MEAN · Systems Operational Analyst · I ship things that stay shipped" />
 </a>
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhijoshi.vercel.app-FF5C35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0B)](https://abhijoshi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhijoshi.vercel.app-FF5C35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0B)](https://abhijoshi23.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0B)](https://linkedin.com/in/abhijoshi23)
 [![Email](https://img.shields.io/badge/Email-jabhi381%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0B)](mailto:jabhi381@gmail.com)
 
@@ -123,24 +123,6 @@ low-code teaches you to ship fast, full-stack teaches you why the fast thing bro
 </picture>
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     PROJECTS
-     ═══════════════════════════════════════════════════════════════ -->
-
-### `~ ls projects/`
-
-| Project | What it is | Built with |
-|---|---|---|
-| **[Portfolio](https://github.com/abhijoshi23/Portfolio)** — [live ↗](https://abhijoshi.vercel.app) | My personal site. Currently mid-rebuild in Next.js. | `Next.js` `TypeScript` `Tailwind` |
-| **[SpotifyUI](https://github.com/abhijoshi23/SpotifyUI)** | Spotify's interface, rebuilt on the MEAN stack. | `Angular` `TypeScript` `Node` `MongoDB` |
-| **[TripsAPI](https://github.com/abhijoshi23/TripsAPI)** | REST API for trip data, with a Spotify-inspired client. | `Node.js` `Express` `MongoDB` |
-| **[Doitlistapp](https://github.com/abhijoshi23/Doitlistapp)** | A todo app — the one everyone builds, done properly. | `JavaScript` `React` |
-| **[Employee Management System](https://github.com/abhijoshi23/Employee-management-system)** | Full CRUD employee directory with server-rendered views. | `Handlebars` `Node.js` `Express` |
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════
      CONNECT
