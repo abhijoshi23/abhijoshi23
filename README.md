@@ -1,31 +1,166 @@
-<h1 align="center">Hello 👋, I'm Abhi Joshi.</h1>
-<h3 align="center">A passionate Software developer.🧑‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<!-- ═══════════════════════════════════════════════════════════════
+     HEADER
+     ═══════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijoshi23&label=Profile%20views&color=0e75b6&style=flat" alt="abhijoshi23" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FF5C35,100:FF9A3C&section=header&text=Abhi%20Joshi&fontColor=FFFFFF&fontSize=52&fontAlignY=32&desc=Software%20Developer%20%C2%B7%20Toronto,%20ON&descAlignY=54&descSize=16&animation=fadeIn" alt="" />
 
-- 🔭 I’m currently working as Systems Operational Analyst / Software Developer  at <a href="https://www.ontario.ca/page/ministry-public-business-service-delivery">Ministry of Public and Business Service Delivery (MPBSD).</a>
+<div align="center">
 
-- 🌱 I’m currently working on **MERN and MEAN stack as well as low-code platforms like: Microsoft PowerApps, PowerAutomate and Co-pilot Studio.**
+<a href="https://abhijoshi.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF5C35&center=true&vCenter=true&width=620&height=45&lines=Full-stack+developer+%E2%80%94+MERN+%2F+MEAN;Systems+Operational+Analyst+%40+Ontario+Gov;I+ship+things+that+stay+shipped." alt="Full-stack developer — MERN / MEAN · Systems Operational Analyst · I ship things that stay shipped" />
+</a>
 
-- 👨‍💻 I like working on exciting projects, They are available at my portfolio as well - [https://abhijoshi.vercel.app/](https://abhijoshi.vercel.app/)
+<br />
 
-- 💬 Improving myself on MEAN, MERN Stack applications: React,Gatsby, Angular.js, Next.js, TypeScript, MongoDB and more dev tools.
+[![Portfolio](https://img.shields.io/badge/Portfolio-abhijoshi.vercel.app-FF5C35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0A0B)](https://abhijoshi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0B)](https://linkedin.com/in/abhijoshi23)
+[![Email](https://img.shields.io/badge/Email-jabhi381%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0B)](mailto:jabhi381@gmail.com)
 
-- 📫 How to reach me **jabhi381@gmail.com**.
+![Profile views](https://komarev.com/ghpvc/?username=abhijoshi23&label=Profile%20views&color=FF5C35&style=flat-square)
 
-- ⚡ Fun fact **I love to interact with people.** Feel free to connect with me.
+</div>
 
-<h3 align="left">Connect with me:-</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abhijoshi23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhi-joshi-15196121a/" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:-</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- ═══════════════════════════════════════════════════════════════
+     WHOAMI
+     ═══════════════════════════════════════════════════════════════ -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijoshi23&show_icons=true&locale=en&layout=compact" alt="abhijoshi23" /></p>
+### `~ whoami`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijoshi23&show_icons=true&locale=en" alt="abhijoshi23" /></p>
+```console
+$ abhi --about
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijoshi23&" alt="abhijoshi23" /></p>
+  role         Systems Operational Analyst / Software Developer
+  org          Ministry of Public and Business Service Delivery, Ontario
+  location     Toronto, ON  ·  UTC-05:00
+  stack        MERN  ·  MEAN  ·  Power Platform
+  building     Low-code automation by day, side projects by night
+  reading      Docs I should have read before the incident
+
+$ abhi --philosophy
+
+  "I care more about what a product feels like at 2am under load
+   than about which framework is trending this quarter."
+
+$ _
+```
+
+I work where enterprise systems meet modern web development — which in practice means
+I spend as much time on **Power Automate flows and Copilot Studio agents** as I do on
+**React components and Express routes**. The overlap is more interesting than either alone:
+low-code teaches you to ship fast, full-stack teaches you why the fast thing broke.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     STACK
+     ═══════════════════════════════════════════════════════════════ -->
+
+### `~ stack`
+
+<div align="center">
+
+**Core**
+
+[![Core stack](https://skillicons.dev/icons?i=ts,js,react,angular,nodejs,express,mongodb,tailwind&theme=dark)](https://skillicons.dev)
+
+**Also fluent in**
+
+[![Secondary stack](https://skillicons.dev/icons?i=nextjs,html,css,bootstrap,postgres,docker,git,github,vscode,figma,vercel,postman&theme=dark)](https://skillicons.dev)
+
+**Low-code / Microsoft**
+
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     STATS  — <picture> so the cards match GitHub's light AND dark theme
+     ═══════════════════════════════════════════════════════════════ -->
+
+### `~ stats`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhijoshi23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF5C35&icon_color=FF5C35&text_color=C9D1D9&card_width=420" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhijoshi23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=D6391A&icon_color=D6391A&text_color=57544B&card_width=420" alt="Abhi's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoshi23&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF5C35&text_color=C9D1D9&card_width=340" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoshi23&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=D6391A&text_color=57544B&card_width=340" alt="Most used languages" />
+</picture>
+
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhijoshi23&hide_border=true&background=0D1117&stroke=30363D&ring=FF5C35&fire=FF5C35&currStreakLabel=FF5C35&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=abhijoshi23&hide_border=true&background=FFFFFF&stroke=E5E0D6&ring=D6391A&fire=D6391A&currStreakLabel=D6391A&sideLabels=57544B&currStreakNum=15140F&sideNums=15140F&dates=8A857A" alt="GitHub streak" />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     SNAKE  — generated by .github/workflows/snake.yml
+     ═══════════════════════════════════════════════════════════════ -->
+
+### `~ contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijoshi23/abhijoshi23/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijoshi23/abhijoshi23/output/snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/abhijoshi23/abhijoshi23/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     PROJECTS
+     ═══════════════════════════════════════════════════════════════ -->
+
+### `~ ls projects/`
+
+| Project | What it is | Built with |
+|---|---|---|
+| **[Portfolio](https://github.com/abhijoshi23/Portfolio)** — [live ↗](https://abhijoshi.vercel.app) | My personal site. Currently mid-rebuild in Next.js. | `Next.js` `TypeScript` `Tailwind` |
+| **[SpotifyUI](https://github.com/abhijoshi23/SpotifyUI)** | Spotify's interface, rebuilt on the MEAN stack. | `Angular` `TypeScript` `Node` `MongoDB` |
+| **[TripsAPI](https://github.com/abhijoshi23/TripsAPI)** | REST API for trip data, with a Spotify-inspired client. | `Node.js` `Express` `MongoDB` |
+| **[Doitlistapp](https://github.com/abhijoshi23/Doitlistapp)** | A todo app — the one everyone builds, done properly. | `JavaScript` `React` |
+| **[Employee Management System](https://github.com/abhijoshi23/Employee-management-system)** | Full CRUD employee directory with server-rendered views. | `Handlebars` `Node.js` `Express` |
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     CONNECT
+     ═══════════════════════════════════════════════════════════════ -->
+
+### `~ contact`
+
+<div align="center">
+
+I'm open to interesting problems, collaboration, and roles where the work actually ships.
+I reply to everything that isn't a recruiter template.
+
+<br />
+
+<a href="mailto:jabhi381@gmail.com"><img src="https://img.shields.io/badge/say_hello-jabhi381@gmail.com-FF5C35?style=for-the-badge&logoColor=white&labelColor=0A0A0B" alt="Email" /></a>
+
+<br /><br />
+
+<sub><i>"Low-code teaches you to ship fast. Full-stack teaches you why the fast thing broke."</i></sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF9A3C,100:FF5C35&section=footer" alt="" />
