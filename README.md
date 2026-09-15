@@ -89,17 +89,6 @@ low-code teaches you to ship fast, full-stack teaches you why the fast thing bro
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abhijoshi23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF5C35&icon_color=FF5C35&text_color=C9D1D9&card_width=420" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhijoshi23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=FFFFFF&title_color=D6391A&icon_color=D6391A&text_color=57544B&card_width=420" alt="Abhi's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoshi23&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=FF5C35&text_color=C9D1D9&card_width=340" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijoshi23&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=D6391A&text_color=57544B&card_width=340" alt="Most used languages" />
-</picture>
-
-<br /><br />
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abhijoshi23&hide_border=true&background=0D1117&stroke=30363D&ring=FF5C35&fire=FF5C35&currStreakLabel=FF5C35&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
   <img src="https://streak-stats.demolab.com?user=abhijoshi23&hide_border=true&background=FFFFFF&stroke=E5E0D6&ring=D6391A&fire=D6391A&currStreakLabel=D6391A&sideLabels=57544B&currStreakNum=15140F&sideNums=15140F&dates=8A857A" alt="GitHub streak" />
 </picture>
